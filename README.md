@@ -15,16 +15,16 @@ Welcome to the ParcialWeb wiki!
 
 ## 3. Consultar todos los países de una pandemia con su información dado el id de la pandemia
 ![](https://github.com/Leoo05/ParcialWeb/blob/master/Images/6.jpg)
-![](https://github.com/Leoo05/ParcialWeb/blob/master/Images/7.jpg)
+![](https://github.com/Leoo05/ParcialWeb/blob/master/Images/7.JPG)
 ## 4. Consultar la información de una pandemia (ID, Nombre, Síntomas, Recomendaciones)
 incluyendo cantidad de países, cantidad de infectados, recuperados y de muertes en total de
 una pandemia, esto debe ser calculado en base a la información reportada por cada país. Y que
 retorne la información de todos los países asociados a esta pandemia con su información.
-![](https://github.com/Leoo05/ParcialWeb/blob/master/Images/8.jpg)
-![](https://github.com/Leoo05/ParcialWeb/blob/master/Images/9.jpg)
+![](https://github.com/Leoo05/ParcialWeb/blob/master/Images/8.JPG)
+![](https://github.com/Leoo05/ParcialWeb/blob/master/Images/9.JPG)
 
 ## 5. Curar un país por id de pandemia y id del país, esto tendrá el efecto de que el país sumará a los
 curados la cantidad d de infectados menos la cantidad de muertos y cambiará el estado de en
 curso de verdadero a falso.
-![](https://github.com/Leoo05/ParcialWeb/blob/master/Images/10.jpg)
-![](https://github.com/Leoo05/ParcialWeb/blob/master/Images/11.jpg)
+![](https://github.com/Leoo05/ParcialWeb/blob/master/Images/10.JPG)
+![](https://github.com/Leoo05/ParcialWeb/blob/master/Images/11.JPG)
